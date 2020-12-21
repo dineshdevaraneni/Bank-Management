@@ -13,7 +13,7 @@
 <body>
     <div className="grid-container">
         <header class="header">
-            <h2>Bank of Paradise</h2>
+            <h2>Bank of Jarvis</h2>
             <a href = "../intern.php" name = "homepage_link"><h3>Home</h3></a>
             <a href = "users.php" name = "usersList_link"><h3>Users</h3></a>
             <a href = "../transferMoney.php" name = "transfermoney"><h3>Transfer Money</h3></a>
